@@ -1,3 +1,4 @@
+-- Chuyển đổi kiểu dữ liệu phù hợp cho các trường ( sử dụng câu lệnh ALTER) 
 SELECT * FROM SALES_DATASET_RFM_PRJ;
 
 ALTER TABLE SALES_DATASET_RFM_PRJ
